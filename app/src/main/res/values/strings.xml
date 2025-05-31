@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title">IMC For II-Master BDCC 1</string>
+    <string name="poids">Poids</string>
+    <string name="kg">Kg</string>
+    <string name="taille">Taille</string>
+    <string name="cm">Cm</string>
+    <string name="btn_calcul">Calculer IMC</string>
+    <string name="votre_imc_est">Votre IMC est :</string>
+</resources>
